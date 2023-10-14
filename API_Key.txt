@@ -1,0 +1,11 @@
+Insert API key here
+
+To obtain:
+- Go to https://platform.openai.com/
+- Make an account or login
+- Click on your profile on the top right corner
+- Click "View API Keys"
+- Create new key
+- Copy the key into this text document
+- ONLY have the API key in this document (so delete these instructions)
+- Make sure to save changes to this document
